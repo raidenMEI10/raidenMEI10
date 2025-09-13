@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm @raidenMEI10, just a undergraduate searching for postgraduate's degree 🚀</div>  
+### <div align="center">This is @raidenMEI10, just a undergraduate searching for postgraduate's degree 🚀</div>  
   
 
 - 🔭 I’m interested in AI and Distributed System
